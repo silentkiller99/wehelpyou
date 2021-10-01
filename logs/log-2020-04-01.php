@@ -1,0 +1,2727 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-01 15:15:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:15:32 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:29:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:29:29 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:29:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:29:30 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:29:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:29:50 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:31:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:31:49 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:31:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:31:50 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:31:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:31:55 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:32:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:32:34 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:32:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:32:34 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:32:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:32:43 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:33:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:33:34 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:35:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:35:24 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:36:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:36:02 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:37:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:37:31 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:37:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:37:32 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:38:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:38:20 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:38:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:38:29 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:38:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:38:31 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:38:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:38:32 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:10 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+ORDER BY `create_date` ASC' at line 3 - Invalid query: SELECT *
+FROM `tbl_notes`
+WHERE (`teacher_id` = 3 AND `batch_id` =)
+ORDER BY `create_date` ASC
+ERROR - 2020-04-01 15:41:13 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 116
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 15:41:21 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:29 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:41 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:42 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:42 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:46 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:47 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:30:47 --> 404 Page Not Found: Notes/D2k=
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:11 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:12 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:37:12 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:38:02 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:39:27 --> 404 Page Not Found: Notes/A2U=
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:40:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:44:43 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:17 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:17 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:18 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:18 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:20 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:21 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:22 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:45:29 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:29 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:29 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:29 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:29 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:29 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:30 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:45:30 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:46:49 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:11 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:11 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:47:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:48:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:12 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:49:58 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:50:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:51:41 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:09 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:52:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:54:50 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:07 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:07 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:08 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:08 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:08 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:08 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:08 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:08 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:55:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:33 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:33 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:56:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:57:13 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:19 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:19 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:20 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:20 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:21 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:22 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:22 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:22 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:23 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 16:59:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 16:59:55 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:00 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:00:00 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:00:01 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:00:01 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:25 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:00:53 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:47 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:01:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\student\notes_all.php 67
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 67
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 143
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 172
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\student\notes_all.php 67
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 67
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 143
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 172
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 74
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 143
+ERROR - 2020-04-01 17:03:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\student\notes_all.php 172
+ERROR - 2020-04-01 17:03:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:19 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:03:20 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\student\notes_all.php 67
+ERROR - 2020-04-01 17:04:05 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 67
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:26 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:35 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:36 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:36 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:36 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:36 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:36 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:36 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 68
+ERROR - 2020-04-01 17:04:48 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 68
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:04:48 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:22 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Undefined variable: get I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\notes_all.php 141
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:05:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:06:38 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:07:29 --> 404 Page Not Found: EmpLogin/index
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:07:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:08:23 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:09:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:11:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:00 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:54 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:54 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:55 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:55 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:56 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:56 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:57 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:58 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:16:59 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:20:52 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:44 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 108
+ERROR - 2020-04-01 17:23:44 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 108
+ERROR - 2020-04-01 17:23:44 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 108
+ERROR - 2020-04-01 17:23:44 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:44 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:44 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:44 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:45 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:45 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:45 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:23:45 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> Severity: Notice --> Undefined index: notes_path I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:24:01 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 108
+ERROR - 2020-04-01 17:24:01 --> Severity: Notice --> Undefined index: notes_path I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:24:01 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 108
+ERROR - 2020-04-01 17:24:01 --> Severity: Notice --> Undefined index: notes_path I:\all_projects\guru_prerna\application\views\student\notes_all.php 107
+ERROR - 2020-04-01 17:24:01 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\notes_all.php 108
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:01 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:34 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:24:35 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:25:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:25:51 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:27:02 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:14 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:14 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 10 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:32:15 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 148
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\employee\notes_view.php 148
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 154
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\employee\notes_view.php 154
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 164
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\employee\notes_view.php 164
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 171
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 171
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 171
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 226
+ERROR - 2020-04-01 21:02:19 --> Severity: Notice --> Undefined offset: 1 I:\all_projects\guru_prerna\application\views\employee\notes_view.php 252
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:10 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 17:33:13 --> Severity: Warning --> preg_match(): Compilation failed: unmatched closing parenthesis at offset 17 I:\all_projects\guru_prerna\system\core\Router.php 399
+ERROR - 2020-04-01 17:33:13 --> 404 Page Not Found: ViewNotesStudent/index
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:33:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:39:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:40:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:42:54 --> 404 Page Not Found: Upload/not
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:43:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:45:29 --> 404 Page Not Found: student/StudentHome/downloadNotes
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:02 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:04 --> 404 Page Not Found: student/StudentHome/downloadNotes
+ERROR - 2020-04-01 17:47:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:47:47 --> 404 Page Not Found: student/StudentHome/downloadNotes
+ERROR - 2020-04-01 17:47:57 --> 404 Page Not Found: student/StudentHome/downloadNotes
+ERROR - 2020-04-01 17:48:29 --> 404 Page Not Found: student/StudentHome/downloadNotes
+ERROR - 2020-04-01 17:48:32 --> 404 Page Not Found: student/StudentHome/downloadNotes
+ERROR - 2020-04-01 17:50:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:50:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:51:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:52:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:53:56 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:56 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:56 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:56 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:57 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:57 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:57 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:53:57 --> 404 Page Not Found: Notes/UTc=
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 17:54:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:02:56 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:03:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:05:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:08:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:22:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:21 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 18:23:21 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 18:23:22 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 18:23:22 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:23:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:11 --> 404 Page Not Found: Notes/VDI=
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:24:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:04 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:04 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Notes/B2E=
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:45:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:46:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:01 --> 404 Page Not Found: Notes/AWc=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:06 --> 404 Page Not Found: Notes/BmA=
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 18:47:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:18:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\student\fee_details.php 38
+ERROR - 2020-04-01 21:24:40 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\fee_details.php 38
+ERROR - 2020-04-01 21:24:40 --> Severity: Notice --> Undefined offset: 0 I:\all_projects\guru_prerna\application\views\student\fee_details.php 39
+ERROR - 2020-04-01 21:24:40 --> Severity: Notice --> Trying to access array offset on value of type null I:\all_projects\guru_prerna\application\views\student\fee_details.php 39
+ERROR - 2020-04-01 21:24:40 --> Severity: Notice --> Undefined variable: feeDetails I:\all_projects\guru_prerna\application\views\student\fee_details.php 41
+ERROR - 2020-04-01 21:24:40 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\fee_details.php 41
+ERROR - 2020-04-01 21:24:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND `user_type` = 2)
+ORDER BY `payment_id` DESC' at line 3 - Invalid query: SELECT *
+FROM `tbl_payment_details`
+WHERE (`user_id` =  AND `user_type` = 2)
+ORDER BY `payment_id` DESC
+ERROR - 2020-04-01 21:24:40 --> Severity: error --> Exception: Call to a member function result_array() on bool I:\all_projects\guru_prerna\application\helpers\common_helper.php 105
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:24:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> Severity: Notice --> Undefined variable: feeDetails I:\all_projects\guru_prerna\application\views\student\fee_details.php 41
+ERROR - 2020-04-01 21:25:31 --> Severity: Warning --> Invalid argument supplied for foreach() I:\all_projects\guru_prerna\application\views\student\fee_details.php 41
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:25:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:35 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:28:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:31:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:32:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:33:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:42:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:44:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:49:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:50:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:51:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:52:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:40 --> Severity: Notice --> Undefined variable: title I:\all_projects\guru_prerna\application\views\student\profile.php 9
+ERROR - 2020-04-01 21:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:58:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:11 --> Severity: Notice --> Undefined variable: title I:\all_projects\guru_prerna\application\views\student\profile.php 9
+ERROR - 2020-04-01 21:59:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> Severity: Notice --> Undefined variable: title I:\all_projects\guru_prerna\application\views\student\profile.php 9
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 21:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:01:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:03:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:05:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:06:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:07:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:08:43 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:09:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:13:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:00 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:15:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:17:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:21:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:22:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:23:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:31 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:24:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:25:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:26:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:27:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:29:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:30:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:31:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:32:45 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:34:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:35:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:37:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:02 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:02 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:02 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:02 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:10 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:10 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:11 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:12 --> 404 Page Not Found: Assets/bower_components
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:21 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:38:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:39:12 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:40:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:41:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:42:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:43:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:45:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:34 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:46:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:47:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:48:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:49:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:51:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:06 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 22:52:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:37 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:10:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:12:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:14 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:13:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/icons
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:15:55 --> 404 Page Not Found: SChangePassword/index
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:16:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:18:39 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:19:58 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:26 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:22:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:23:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:20 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:41 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:24:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:25:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:26:11 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:01 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:27:57 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:28:51 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:15 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:27 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:28 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:30:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:31:04 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:32:10 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:42:36 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:03 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:16 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:17 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:43:46 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:09 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:44:50 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:45:24 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:19 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:47 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:48 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:51:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:08 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:13 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:22 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:23 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:29 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:52:33 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:25 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:53:32 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:49 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:55:56 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:52 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:57:55 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:07 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:40 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
+ERROR - 2020-04-01 23:58:42 --> 404 Page Not Found: Assets/img
